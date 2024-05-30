@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+    font-size: x-large;
+    color: white;
+    display: grid;
+    justify-items: center;
+}
+
+
+h1{
+    color: red
+}
+
+p{
+    color: rgb(2, 238, 2);
+    font-family: monospace;
+}
+
+#texto{
+    color: aquamarine;
+}
+
+.especiales{
+    color:yellow
+}
+
+img{
+    width: 30%;
+}
