@@ -8,12 +8,18 @@ body{
 
 
 h1{
-    color: red
+    color: red;
+    border: 2px solid black;
+    background-color: white;
+    margin-top: 80px;
 }
 
 p{
     color: rgb(2, 238, 2);
     font-family: monospace;
+    border: 2px solid rgb(91, 89, 89);
+    background-color: rgb(250, 93, 93);
+    width: 70%;
 }
 
 #texto{
